@@ -1,4 +1,4 @@
-module github.com/akhiljob/kafkaClients
+module telio.id/kafka-clients
 
 go 1.15
 

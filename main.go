@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/akhiljob/kafkaClients/consumer"
-	"github.com/akhiljob/kafkaClients/producer"
+	"telio.id/kafka-clients/consumer"
+	"telio.id/kafka-clients/producer"
 )
 
 func main() {
